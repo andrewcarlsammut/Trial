@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 #define FUNDLEN 50
-
+dehfehketh
 
 typedef struct funds
 {
@@ -22,7 +22,7 @@ double sum(const funds*);
 
 int main(int argc, const char * argv[])
 {
-
+    //testing
     funds Mario = { "Valletta Fund", 2000, "Mosta Fund", 3000};
     printf("This is the sum of the funds %f", sum(&Mario));
     return 0;
